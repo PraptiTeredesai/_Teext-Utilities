@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PraptiTeredesai/Text_utilis.git/static/css/main.f855e6bc.css",
+    "main.js": "/PraptiTeredesai/Text_utilis.git/static/js/main.ad3b8b4d.js",
+    "static/js/453.bb83d1b5.chunk.js": "/PraptiTeredesai/Text_utilis.git/static/js/453.bb83d1b5.chunk.js",
+    "index.html": "/PraptiTeredesai/Text_utilis.git/index.html",
+    "main.f855e6bc.css.map": "/PraptiTeredesai/Text_utilis.git/static/css/main.f855e6bc.css.map",
+    "main.ad3b8b4d.js.map": "/PraptiTeredesai/Text_utilis.git/static/js/main.ad3b8b4d.js.map",
+    "453.bb83d1b5.chunk.js.map": "/PraptiTeredesai/Text_utilis.git/static/js/453.bb83d1b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ad3b8b4d.js"
+  ]
+}
